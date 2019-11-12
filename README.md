@@ -1,6 +1,6 @@
 # labo_biere
 **Les calculs ne sont pas nécessairements bons, et les graphiques ne sont pas nécessairement bons non plus.**
-**Merci de prendre le temps de réviser les calculs avant d'utiliser les résultats**
+**Merci de prendre le temps de réviser les calculs avant d'utiliser les résultats.**
 **Pour l'utilisation d'un notebook, consultez la documentation sur [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) et sur [IPython](https://ipython.readthedocs.io/en/stable/).**
 ## Pourquoi utiliser cette méthode plutôt qu'Excel:
 * Si plusieurs personnes révisent les calculs, les chances de faire des erreurs sont très faibles.
