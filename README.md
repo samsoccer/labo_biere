@@ -8,7 +8,7 @@
 * Le projet [Jupyter](https://jupyter.org/) est gratuit, contrairement à Excel.
 ## Comment utiliser le notebook:
 * Tous les calculs sont dans le fichier
-* Le notebook a été réalisé avec [Google Colaboratory](https://colab.research.google.com/notebooks). Il est facile d'utiliser le même outil en cliquant sur le [lien](https://colab.research.google.com/github/TrickyTroll/labo_biere/blob/master/labo_biere.ipynb).
+* Le notebook a été réalisé avec [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Il est facile d'utiliser le même outil en cliquant sur le lien.
 * Pour entrer vos valeurs, il suffit de suivre les instructions dans la section "Les donnés".
 * Une fois que les valeurs sont entrées, allez dans le menu "Runtime" et cliquez sur "Run all".
 * Pour avoir accès aux résultats, voir les indications à la fin du notebook.
